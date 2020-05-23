@@ -4,7 +4,7 @@ import Vue from 'vue'
 import App from './App'
 import router from './router'
 // 引入进度条控件
-import 'normalize.css/normalize.css'// A modern alternative to CSS resets
+// import 'normalize.css/normalize.css'// A modern alternative to CSS resets
 // 引入 v-charts 图表
 import VCharts from 'v-charts'
 Vue.use(VCharts)
